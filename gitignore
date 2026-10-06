@@ -1,0 +1,14 @@
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoint-*/
+data/
+*.arrow
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+drive/
+.env
+hf_token*
